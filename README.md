@@ -27,6 +27,9 @@ Après l'installation et la configuration, vous pourrez lancer le projet avec :
 npm start
 ```
 
+## Tester le projet
+Utiliser la bibliothèque de requête Postman transmise dans le rendu pour commencer à tester l'application.
+
 ## Structure du Projet
 
 - `back-end/`: Contient le code du back-end développé en Node.js.
