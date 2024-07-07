@@ -1,7 +1,7 @@
 # POC CRM - SEND EMAIL
 
-Ce projet est un POC visant à tester la faisabilité de l'envoi de mail dans un projet d'étude. Ce projet consiste en la réalisation d'un CRM.  
-Ici, nous testerons simplement l'envoi de mail
+Ce projet est une preuve de concept (POC) visant à tester la faisabilité de l'envoi de mails dans le cadre d'un projet d'étude. Il s'agit de la création d'un CRM pour simplifier la gestion des associations.  
+Pour cette phase, nous nous concentrerons uniquement sur la fonctionnalité d'envoi de mails.
 
 ## Installation et Utilisation
 

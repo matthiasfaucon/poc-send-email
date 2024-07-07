@@ -24,7 +24,10 @@ const port = 3000;
 app.use(express.json());
 
 app.get('/adherent', async (req: Request, res: Response) => {
-    const adherents = await User.find();
+    const adherents = await User.find({
+        relations: ['guardians'],
+        where: { roles: Role.Adherent },
+    });
     res.json(adherents);
 });
 
